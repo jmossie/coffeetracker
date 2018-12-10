@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	margin-top: 100px;
+	color: blue;
+	background-color: grey;
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+	color: red;
+	border-color: purple;
+	background-color: yellow;
+}
+
+h2 {
+	display:inline;
+}
